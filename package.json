@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-grpc-protobuf",
+  "version": "1.0.0",
+  "description": "Node Js gRPC demo project",
+  "main": "index-proto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashwin Dinesh",
+  "license": "ISC",
+  "dependencies": {
+    "google-protobuf": "^3.19.1"
+  }
+}
